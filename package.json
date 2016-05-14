@@ -1,6 +1,6 @@
 {
   "name": "arg-find",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "write functions that accept arguments in any order",
   "main": "index.js",
   "dependencies": {
