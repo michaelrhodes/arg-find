@@ -40,5 +40,12 @@ fn(function (err) {
 }, { throw: true })
 ```
 
+### Weight (Browserified)
+| compression        |    size |
+| :----------------- | ------: |
+| arg-find.js        | 1.48 kB |
+| arg-find.min.js    |   994 B |
+| arg-find.min.js.gz |   514 B |
+
 ### License
 [MIT](http://opensource.org/licenses/MIT)
